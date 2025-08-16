@@ -16,11 +16,13 @@
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
+<<<<<<< HEAD
   "terminal.integrated.fontSize": 22,
+=======
+  "terminal.integrated.fontSize": 18,
+  "workbench.activityBar.visible": true,
+>>>>>>> parent of 333c1e6 (Adds the code to expose the .git folder (commented))
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "workbench.statusBar.visible": true
 }
